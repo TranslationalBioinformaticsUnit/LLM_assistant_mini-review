@@ -6,12 +6,12 @@ This repository contains the code and case studies from our research on the appl
 
 **Bulk RNA-seq**: R script for processing bulk RNA-seq data, from reading raw count tables per sample to the normalization process, including filtering steps. The original script is titled [bulkRNA_CaseStudy.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/bulkRNAseq/bulkRNA_CaseStudy.R).
 * [bulkRNAseq_Claude.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/bulkRNAseq/bulkRNA_Claude.R): Updated R script refined by Claude 3.5.
-* [bulkRNAseq_chatGPT.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/bulkRNAseq/bulkRNAseq_chatGPT.R): Updated R script refined by ChatGPT.
-* [bulkRNAseq_UnifyAI.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/bulkRNAseq/bulkRNAseq_UnifyAI.R): Updated R script refined by UnifyAI.
-* [bulkRNAseq_Gemini.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/bulkRNAseq/bulkRNAseq_Gemini.R): Updated R script refined by Gemini.
+* [bulkRNAseq_chatGPT.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/bulkRNAseq/bulkRNA_chatGPT.R): Updated R script refined by ChatGPT.
+* [bulkRNAseq_UnifyAI.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/bulkRNAseq/bulkRNA_UnifyAI.R): Updated R script refined by UnifyAI.
+* [bulkRNAseq_Gemini.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/bulkRNAseq/bulkRNA_Gemini.R): Updated R script refined by Gemini.
 
 **Single-cell RNA-seq**: R script for processing scRNA-seq data, starting from the creation of a Seurat object to identifying the most highly variable genes, including normalization step. The script is named [scRNA_CaseStudy.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/scRNAseq/scRNA_CaseStudy.R).
 * [scRNAseq_Claude.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/scRNAseq/scRNA_Claude.R): Updated R script refined by Claude 3.5.
-* [scRNAseq_chatGPT.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/scRNAseq/scRNAseq_chatGPT.R): Updated R script refined by ChatGPT.
-* [scRNAseq_UnifyAI.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/scRNAseq/scRNAseq_UnifyAI.R): Updated R script refined by UnifyAI.
-* [scRNAseq_Gemini.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/scRNAseq/scRNAseq_Gemini.R): Updated R script refined by Gemini.
+* [scRNAseq_chatGPT.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/scRNAseq/scRNA_chatGPT.R): Updated R script refined by ChatGPT.
+* [scRNAseq_UnifyAI.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/scRNAseq/scRNA_UnifyAI.R): Updated R script refined by UnifyAI.
+* [scRNAseq_Gemini.R](https://github.com/TranslationalBioinformaticsUnit/LLM_assistant_mini-review/blob/main/scRNAseq/scRNA_Gemini.R): Updated R script refined by Gemini.
